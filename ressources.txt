@@ -1,0 +1,2 @@
+ethereum book: to learn the basics of blockchain and the ethereum network https://github.com/ethereumbook/ethereumbook
+CryptoZombies: to learn solidity basics "great ressource to start with solidity" https://cryptozombies.io/
